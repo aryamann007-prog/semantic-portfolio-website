@@ -20,3 +20,5 @@ A fully accessible multi-page personal portfolio website built using semantic HT
 - Accessibility (WCAG)
 - ARIA
 - SEO Best Practices
+
+Updated
